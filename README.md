@@ -1,4 +1,1 @@
-# Adrenaline22
-Registration website for TAC Adrenaline '22
-
-$ https://tacnitc.github.io/Adrenaline22/
+Course Links for S6 Courses in NITC
