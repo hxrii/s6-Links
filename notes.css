@@ -1,7 +1,10 @@
 
 img{
     margin:auto;
-    width: 100% ;
+    width: 90% ;
+    display: grid;
+    justify-items: center;
+    
 }
 h1{
     display: grid;
