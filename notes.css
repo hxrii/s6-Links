@@ -1,0 +1,10 @@
+
+img{
+    margin:auto;
+    width: 100% ;
+}
+h1{
+    display: grid;
+    margin: 10rem;
+    justify-items: center;
+}
